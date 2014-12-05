@@ -1,4 +1,4 @@
-# Welcome to the ds4kperf wiki!
+# README ds4kperf
 
 ## Abstract
 
